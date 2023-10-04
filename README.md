@@ -5,6 +5,6 @@ I graduated with a bachelor's degree from the City University of New York (CUNY)
 While at Recurse I contributed to a group project that built a multiplayer quiz web app developed using Flask, websockets, Python, JavaScript, and made use of Git for version control and GitHub issues to organize tasks. I deployed to AWS using Ansible and Docker containers.
 
 - 🌱 Currently learning: Python and Flask!
-- 🔨 Currently working on: [qn](https://github.com/christopher-ga/recurse-quiz-app) - A Flask-based multiplayer quiz web application
+- 🔨 Currently working on: [wiz-zzer](https://github.com/christopher-ga/recurse-quiz-app) - A Flask-based multiplayer quiz web application
 - 💻 Let's talk about: Ansible, AWS, Linux, containerization, and other amazing technologies
 - ⚡ Fun fact: I love performing improv comedy in my spare time and I used to perform magic at the Abracadabra NYC magic shop
