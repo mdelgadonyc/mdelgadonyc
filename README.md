@@ -1,4 +1,6 @@
-## Hi, I'm Moises 👋 I'm an AWS-certified Software Engineer with a focus on Python & Java backend development, Linux, and automation tools.
+## Hi, I'm Moises 👋 
+
+I'm an AWS-certified Software Engineer with a focus on Python & Java backend development, Linux, and automation tools.
 
 I have decided to capitalize on my extensive experience triaging, troubleshooting, and resolving, technical issues, in a career pivot toward software development and cloud infrastructure. I wrapped up a 12-week batch at the [Recurse Center](https://www.recurse.com/) in September 2023 where I focused on leveling up my Python skills through projects. Projects included GUI games, integrating third-party APIs to solve practical problems, Flask back-end projects, and RESTFul APIs using SQLAlchemy.
 
