@@ -8,9 +8,7 @@ While at Recurse I contributed to a group project that built a multiplayer quiz 
 
 Fellows complete a career development program focused on professional skills development, technical team projects, and industry exposure, culminating in a 40-hour/week paid internship at one of our Host Companies.
 
-🌱 Currently learning: Go
-🔨 Currently working on: backend courses and projects on [Boot.Dev](https://boot.dev/).
-💻 Let's talk about: Ansible, AWS, Linux, containerization, and other amazing technologies
-⚡ Fun fact: I love performing improv comedy in my spare time and I used to perform magic at the Abracadabra NYC magic shop
-
-Skills: AWS, Python, Java, Go, Linux
+- 🌱 Currently learning: Go
+- 🔨 Currently working on: backend courses and projects on [Boot.Dev](https://boot.dev/).
+- 💻 Let's talk about: Ansible, AWS, Linux, containerization, and other amazing technologies
+- ⚡ Fun fact: I love performing improv comedy in my spare time and I used to perform magic at the Abracadabra NYC magic shop
